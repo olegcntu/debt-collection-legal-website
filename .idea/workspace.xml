@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e514ea-287b-40bd-9a90-1ec78c69ea35" name="Changes" comment="work with section news">
+    <list default="true" id="d1e514ea-287b-40bd-9a90-1ec78c69ea35" name="Changes" comment="with section news">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +117,8 @@
       <workItem from="1661756449436" duration="44000" />
       <workItem from="1661872298171" duration="9638000" />
       <workItem from="1661928733146" duration="625000" />
-      <workItem from="1662659693617" duration="2122000" />
+      <workItem from="1662659693617" duration="3637000" />
+      <workItem from="1662747863244" duration="6030000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1659108795476</created>
@@ -181,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661889953900</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="with section news">
+      <created>1662662034427</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662662034427</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +221,7 @@
     <MESSAGE value="section about done, start work with section form" />
     <MESSAGE value="section form and advantages done" />
     <MESSAGE value="work with section news" />
-    <option name="LAST_COMMIT_MESSAGE" value="work with section news" />
+    <MESSAGE value="with section news" />
+    <option name="LAST_COMMIT_MESSAGE" value="with section news" />
   </component>
 </project>
